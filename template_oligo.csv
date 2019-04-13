@@ -1,0 +1,22 @@
+Customer;Plate;WellPosition;Name;Sequence;Length;Scale;MW;Ext.Coef;Volume;nmol;Concentration, ng/ul;Concentration, pmol/ul
+PDTS_01_04-04-2019;Plate1;;3592aD;gtttcttctcatgaaatcaacagag;;;;;;;;
+PDTS_02_04-04-2019;Plate1;;3594e;gtttcttcagatgataaatacataggatggatg;;;;;;;;
+PDTS_03_04-04-2019;Plate1;;3596B;gtttgtgtgtgcatctgtaagcatg;;;;;;;;
+PDTS_04_04-04-2019;Plate1;;3598;gtttcttcaccactggccatcttcagc;;;;;;;;
+PDTS_04_04-04-2019;Plate1;;3600K;agcactctcgtgtttgcgtc;;;;;;;;
+PDTS_05_04-04-2019;Plate1;;3602G;gtttgagcttaaactgggaagc;;;;;;;;
+PDTS_06_04-04-2019;Plate1;;3604E;cctatcctgtagattattttcactgt;;;;;;;;
+PDTS_07_04-04-2019;Plate1;;3606mE;gtttcagagacagactaataggag;;;;;;;;
+PDTS_08_04-04-2019;Plate1;;3608m—;gtttcccgactaccagcaac†;;;;;;;;
+PDTS_09_04-04-2019;Plate1;;3610a;gattctttgtggtgggtctg;;;;;;;;
+PDTS_10_04-04-2019;Plate1;;3612E;gtggctgtggtgttatgatatag;;;;;;;;
+PDTS_11_04-04-2019;Plate1;;3616R1C;gtttcaaggaggcaccgaa;;;;;;;;
+PDTS_12_04-04-2019;Plate1;;3618G;gtttcactcggttgtaggtattat;;;;;;;;
+PDTS_13_04-04-2019;Plate1;;3622syB;atgtaaagtgctctcaagag;;;;;;;;
+PDTS_14_04-04-2019;Plate1;;3624sG;ataagccacagtttacaacatttgtatct;;;;;;;;
+PDTS_15_04-04-2019;Plate1;;3626A;gttgagccataggcagcccaaaaa;;;;;;;;
+PDTS_16_04-04-2019;Plate1;;3628m;gtttcttcatgtgctactgcatccagctaa;;;;;;;;
+PDTS_17_04-04-2019;Plate1;;3630;gtttcttcaaggcgcagcggcaaggacaa;;;;;;;;
+PDTS_18_04-04-2019;Plate1;;3634;gtttcttcaagcctgtgttgctcaagggtcaa;;;;;;;;
+PDTS_19_04-04-2019;Plate1;;3636F;gtttcttgcagatggactgtcatgaga;;;;;;;;
+PDTS_20_04-04-2019;Plate1;;3640sK;gtttattctctgccctttgtactccag;;;;;;;;
