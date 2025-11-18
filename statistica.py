@@ -18,8 +18,6 @@ class Ui_Dialog(object):
         self.context_item = ''
         self.context_item_3 = ''
         self.fname = []
-        
-      
     def setupUi(self, Dialog):
         Dialog.setObjectName("Dialog")
         Dialog.resize(606, 703)
@@ -279,8 +277,6 @@ class Ui_Dialog(object):
         #self.pushButton_2.clicked.connect(self.close)
         self.retranslateUi(Dialog)
         QtCore.QMetaObject.connectSlotsByName(Dialog)
-        
-    
     def openCSVfile(self):
         self.fname = QFileDialog.getOpenFileName()[0]
         f = open(self.fname, 'r')
@@ -304,8 +300,7 @@ class Ui_Dialog(object):
         self.comboBox.activated['QString'].connect(self.getitemlist)  # передаем имя и последовательность олига из выпадающего списка в массивы олигов items и itemseq
         self.radioButton.toggled.connect(self.rbClicked)
         self.radioButton_3.toggled.connect(self.rb3Clicked)
-        
-        
+           
     def getitemlist(self):
         items = []
         itemseq = []
@@ -450,3 +445,4 @@ if __name__ == "__main__":
     ui.setupUi(Dialog)
     Dialog.show()
     sys.exit(app.exec_())
+
